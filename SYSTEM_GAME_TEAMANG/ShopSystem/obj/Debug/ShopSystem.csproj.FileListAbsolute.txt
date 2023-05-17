@@ -1,0 +1,15 @@
+E:\NOTES IN COLLEGE (2nd year 2nd sem)\SYSTEM_GAME_TEAMANG\ShopSystem\bin\Debug\ShopSystem.exe.config
+E:\NOTES IN COLLEGE (2nd year 2nd sem)\SYSTEM_GAME_TEAMANG\ShopSystem\bin\Debug\ShopSystem.exe
+E:\NOTES IN COLLEGE (2nd year 2nd sem)\SYSTEM_GAME_TEAMANG\ShopSystem\bin\Debug\ShopSystem.pdb
+E:\NOTES IN COLLEGE (2nd year 2nd sem)\SYSTEM_GAME_TEAMANG\ShopSystem\obj\Debug\ShopSystem.csproj.AssemblyReference.cache
+E:\NOTES IN COLLEGE (2nd year 2nd sem)\SYSTEM_GAME_TEAMANG\ShopSystem\obj\Debug\ShopSystem.csproj.SuggestedBindingRedirects.cache
+E:\NOTES IN COLLEGE (2nd year 2nd sem)\SYSTEM_GAME_TEAMANG\ShopSystem\obj\Debug\ShopSystem.armor.resources
+E:\NOTES IN COLLEGE (2nd year 2nd sem)\SYSTEM_GAME_TEAMANG\ShopSystem\obj\Debug\ShopSystem.Form1.resources
+E:\NOTES IN COLLEGE (2nd year 2nd sem)\SYSTEM_GAME_TEAMANG\ShopSystem\obj\Debug\ShopSystem.general.resources
+E:\NOTES IN COLLEGE (2nd year 2nd sem)\SYSTEM_GAME_TEAMANG\ShopSystem\obj\Debug\ShopSystem.Properties.Resources.resources
+E:\NOTES IN COLLEGE (2nd year 2nd sem)\SYSTEM_GAME_TEAMANG\ShopSystem\obj\Debug\ShopSystem.weapon.resources
+E:\NOTES IN COLLEGE (2nd year 2nd sem)\SYSTEM_GAME_TEAMANG\ShopSystem\obj\Debug\ShopSystem.csproj.GenerateResource.cache
+E:\NOTES IN COLLEGE (2nd year 2nd sem)\SYSTEM_GAME_TEAMANG\ShopSystem\obj\Debug\ShopSystem.csproj.CoreCompileInputs.cache
+E:\NOTES IN COLLEGE (2nd year 2nd sem)\SYSTEM_GAME_TEAMANG\ShopSystem\obj\Debug\ShopSystem.exe
+E:\NOTES IN COLLEGE (2nd year 2nd sem)\SYSTEM_GAME_TEAMANG\ShopSystem\obj\Debug\ShopSystem.pdb
+E:\NOTES IN COLLEGE (2nd year 2nd sem)\SYSTEM_GAME_TEAMANG\ShopSystem\obj\Debug\ShopSystem.quantityPrompt.resources
